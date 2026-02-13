@@ -1,8 +1,3 @@
-
-
-<!--
-**Fizza-A786/Fizza-A786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 💻 Frontend Web Developer<br>I build clean, responsive, and user-friendly websites using HTML, CSS, JavaScript, and React.js. I turn designs (Figma/Canva) into pixel-perfect, functional UIs with a strong focus on performance, responsiveness, and clean code.
 
