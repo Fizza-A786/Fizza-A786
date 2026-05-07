@@ -4,78 +4,70 @@
   </a>
 </h1>
 
-<h3 align="center">A Passionate Front-End Web Developer 💻</h3>
+<h3 align="center">Front-End Web Developer 💻 | React.js Enthusiast</h3>
 
 ---
 
-### 🧠 About Me:
-I’m Fizza, a Front-End Developer passionate about building modern, responsive, and user-friendly web applications using React.js and Tailwind CSS. I enjoy writing clean code, improving UI/UX, and continuously learning to grow as a professional Front-End Engineer.
+### 🧠 About Me  
+I am Fizza, a Front-End Developer specializing in building responsive, modern, and user-friendly web applications using React.js and Tailwind CSS. I focus on clean code, UI/UX improvement, and continuous learning to grow as a professional Front-End Engineer.
+
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,git,github,vscode,vercel" />
 </p>
 
 ---
 
-### 🚀 My Current Focus:
-- 💡 Mastering **React.js** ecosystem and advanced frontend concepts
-- 🎨 Building real-world responsive applications with modern UI/UX
-- 🔗 Improving API integration and state management skills
-- 📱 Creating mobile-first and cross-browser compatible websites
+### 🚀 Current Focus  
+- Mastering the React.js ecosystem and advanced frontend concepts  
+- Developing responsive and production-ready web applications  
+- Improving API integration and state management (Redux Toolkit, RTK Query)  
+- Building mobile-first and cross-browser compatible UI designs  
 
 ---
 
-### 📁 Featured Projects:
-
-| Project | Live Demo | Technologies |
-|---------|-----------|--------------|
-| **Laundry Website** | [Live Demo](https://lundary.vercel.app/) | React.js, Tailwind CSS |
-| **E-commerce** | [Live Demo](e-commence-olive.vercel.app/) | React.js, Responsive UI |
-| **Personal Portfolio Website** | [Live Demo](fizza-portfolio-z799.vercel.app/) | React.js, Tailwind CSS |
-| **Mufasa Developer** | [Live Demo](https://mufasa-dev-ebon.vercel.app/) | React.js, Responsive Design |
-
-<p align="center">
-  <a href="https://github.com/Fizza-A786?tab=repositories">
-    <img src="https://img.shields.io/badge/-View%20All%20Repositories-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+### 💼 Experience  
+- Front-End Web Developer at **CodesThinker**  
+- Developing scalable and responsive web applications using React.js, JavaScript, and Tailwind CSS  
+- Working with REST APIs, Git/GitHub, and deployment platforms like Vercel  
+- Focused on performance, UI/UX quality, and reusable components  
 
 ---
 
-### 💼 Professional Experience:
-- 💻 **Front-End Web Developer — CodesThinker**
-- 🚀 Building responsive web applications using React.js, Tailwind CSS, HTML5, CSS3, and JavaScript
-- 🔗 Working with REST APIs, Git/GitHub, and Vercel deployment
-- 🎨 Focused on scalable and user-friendly UI/UX
+### 📁 Featured Projects  
+
+| Project | Live Demo | Tech Stack |
+|--------|-----------|------------|
+| Laundry Website | https://lundary.vercel.app/ | React.js, Tailwind CSS |
+| E-Commerce App | https://e-commence-olive.vercel.app/ | React.js, Responsive UI |
+| Portfolio Website | https://fizza-portfolio-z799.vercel.app/ | React.js, Tailwind CSS |
+| Mufasa Dev Portfolio | https://mufasa-dev-ebon.vercel.app/ | React.js, UI Design |
 
 ---
 
-### 📚 Courses & Learning:
-- 🎓 Web Development — Islamia University Of Bahawalpur
-- 🎓 Frontend Web Development — CodesThinker
+### 🎓 Education & Learning  
+- Web Development — Islamia University of Bahawalpur  
+- Front-End Development — CodesThinker  
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/fizza-amjad-377859381/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
   <a href="mailto:devfizza@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 
   <a href="https://github.com/Fizza-A786" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
 
   <a href="https://fizza-portfolio-z799.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-%234285F4?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=react"/>
   </a>
 </p>
-
----
-
