@@ -40,7 +40,7 @@
 | **Laundry Website** | [Live Demo](https://lundary.vercel.app/) | React.js, Tailwind CSS |
 | **E-commerce** | [Live Demo](e-commence-olive.vercel.app/) | React.js, Responsive UI |
 | **Personal Portfolio Website** | [Live Demo](fizza-portfolio-z799.vercel.app/) | React.js, Tailwind CSS |
-| **Todo App** | [Live Demo](todo-app-mocha-tau-90.vercel.app/) | React.js, Responsive Design |
+| **Mufasa Developer** | [Live Demo](https://mufasa-dev-ebon.vercel.app/) | React.js, Responsive Design |
 
 <p align="center">
   <a href="https://github.com/Fizza-A786?tab=repositories">
