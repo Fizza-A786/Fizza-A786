@@ -9,13 +9,7 @@
 ---
 
 ### 🧠 About Me:
-- 🔭 Currently working as a **Front-End Web Developer at CodesThinker**
-- 🌱 Learning and improving skills in **React.js**, **Redux Toolkit**, **RTK Query**, and **Modern UI/UX**
-- 💻 I build responsive, modern, and user-friendly web applications using **React.js**, **JavaScript**, and **Tailwind CSS**
-- ⚡ Passionate about clean code, smooth UI animations, and performance optimization
-- 🎯 My goal is to become a professional **Front-End Engineer**
-- 🧩 Quick learner who enjoys solving real-world development challenges
-
+I’m Fizza, a Front-End Developer passionate about building modern, responsive, and user-friendly web applications using React.js and Tailwind CSS. I enjoy writing clean code, improving UI/UX, and continuously learning to grow as a professional Front-End Engineer.
 ---
 
 ### 🛠️ Languages and Tools:
